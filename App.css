@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e610f173;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
